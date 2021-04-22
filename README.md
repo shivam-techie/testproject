@@ -1,6 +1,6 @@
 # cicd-pipeline
 added new line for Train !
-Learning GIT in DevOps
+added new branch for bugfix
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
 ## Running the app
